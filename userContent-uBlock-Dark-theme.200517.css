@@ -41,7 +41,7 @@
     background: #cc8800 !important;
     color: #ddd !important}
 
-@-moz-document url-prefix(moz-extension://ca0eb160-465f-4914-ba06-10f2af89f16a/document-blocked.html){
+@-moz-document url-prefix(moz-extension://заменить_на_ID_расширения/document-blocked.html){
 
 html, body {background-color: #1A1E23 !important}
 
@@ -68,7 +68,7 @@ button:hover {
 }
 
 /*------ UBLOCK ORIGIN CONTROL PANEL TOP BUTTONS ------*/
-@-moz-document url-prefix(moz-extension://ca0eb160-465f-4914-ba06-10f2af89f16a/dashboard.html) {
+@-moz-document url-prefix(moz-extension://заменить_на_ID_расширения/dashboard.html) {
 
 #dashboard-nav {
 	background: #2A3037 !important;
@@ -105,7 +105,7 @@ div#dashboard-nav span.tabButton:not(.selected):hover {
 }
 
 /*------ UBLOCK ORIGIN CONTROL PANEL CONTENT PAGES ------*/
-@-moz-document url-prefix(moz-extension://ca0eb160-465f-4914-ba06-10f2af89f16a/){
+@-moz-document url-prefix(moz-extension://заменить_на_ID_расширения/){
 body, html, div {
     background: #1A1E23 !important;
     color: #ccc !important;
@@ -354,7 +354,7 @@ div.li:nth-child(11) > span:nth-child(1) {
 }
 
 /*------ UBLOCK ORIGIN MENU POPUP ------*/
-@-moz-document url-prefix(moz-extension://ca0eb160-465f-4914-ba06-10f2af89f16a/popup-fenix.html) {
+@-moz-document url-prefix(moz-extension://заменить_на_ID_расширения/popup-fenix.html) {
 
 /* Basic menu */
 
@@ -521,7 +521,7 @@ hr {
 }
 
 /*------ UBLOCK ORIGIN UI LOGGER ------*/
-@-moz-document url-prefix(moz-extension://ca0eb160-465f-4914-ba06-10f2af89f16a/logger-ui.html) {
+@-moz-document url-prefix(moz-extension://заменить_на_ID_расширения/logger-ui.html) {
 
 body, .permatoolbar, .vscrollable, table, html {background: #1A1E23 !important;}
 
@@ -704,7 +704,7 @@ span.fa-icon.reload:hover {
 
 /*------ UBLOCK ORIGIN MENU POPUP - in LOGGER------*/
 
-@-moz-document url-prefix(moz-extension://ca0eb160-465f-4914-ba06-10f2af89f16a/popup.html) {
+@-moz-document url-prefix(moz-extension://заменить_на_ID_расширения/popup.html) {
 
 #appinfo {
 	background: #0A0E12 !important;
