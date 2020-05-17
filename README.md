@@ -1,3 +1,3 @@
-#userChrome-userContent-CSS
+# userChrome-userContent-CSS
 
-Стили сhrome для Firefox.
+ Стили сhrome для Firefox.
