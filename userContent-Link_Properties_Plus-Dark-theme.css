@@ -1,0 +1,13 @@
+/*------ LINK PROPERTIES PLUS ------*/
+@-moz-document url-prefix(moz-extension://заменить_на_UUID_расширения/properties.html) {
+
+html {
+	background: #1B2128 !important;
+	color: #BEBEBE !important;
+	}
+#headers {
+	background: #222932 !important;
+	color: #BEBEBE !important;
+	}
+
+}
