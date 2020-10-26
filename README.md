@@ -10,3 +10,6 @@
 `// Темная тема на страницах about:xxxxxx`  
 `user_pref("browser.in-content.dark-mode", true);`  
 `user_pref("ui.systemUsesDarkTheme", 1); // [HIDDEN PREF]`
+
+Как получить UUID расширения:  
+`about:debugging#/runtime/this-firefox`
