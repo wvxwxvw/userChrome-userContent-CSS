@@ -41,7 +41,7 @@
     background: #cc8800 !important;
     color: #ddd !important}
 
-@-moz-document url-prefix(moz-extension://заменить_на_ID_расширения/document-blocked.html){
+@-moz-document url-prefix(moz-extension://заменить_на_UUID_расширения/document-blocked.html){
 
 html, body, .code {background-color: #1A1E23 !important}
 
@@ -69,7 +69,7 @@ button:hover {
 }
 
 /*------ UBLOCK ORIGIN CONTROL PANEL TOP BUTTONS ------*/
-@-moz-document url-prefix(moz-extension://заменить_на_ID_расширения/dashboard.html) {
+@-moz-document url-prefix(moz-extension://заменить_на_UUID_расширения/dashboard.html) {
 
 #dashboard-nav {
 	background: #2A3037 !important;
@@ -106,7 +106,7 @@ div#dashboard-nav span.tabButton:not(.selected):hover {
 }
 
 /*------ UBLOCK ORIGIN CONTROL PANEL CONTENT PAGES ------*/
-@-moz-document url-prefix(moz-extension://заменить_на_ID_расширения/){
+@-moz-document url-prefix(moz-extension://заменить_на_UUID_расширения/){
 html:not(#ublock0-epicker) > body, html:not(#ublock0-epicker), #actions, div {
     background: #1A1E23 !important;
     color: #ccc !important;
@@ -386,7 +386,7 @@ div.li:nth-child(11) > span:nth-child(1) {
 
 /*------ UBLOCK ORIGIN MENU POPUP - in LOGGER------*/
 
-@-moz-document url-prefix(moz-extension://заменить_на_ID_расширения/popup.html) {
+@-moz-document url-prefix(moz-extension://заменить_на_UUID_расширения/popup.html) {
 
 #appinfo {
 	background: #0A0E12 !important;
@@ -474,7 +474,7 @@ body.dirty #refresh:hover {
 }
 
 /*------ UBLOCK ORIGIN MENU POPUP ------*/
-@-moz-document url-prefix(moz-extension://заменить_на_ID_расширения/popup-fenix.html) {
+@-moz-document url-prefix(moz-extension://заменить_на_UUID_расширения/popup-fenix.html) {
 
 /* Basic menu */
 
@@ -641,7 +641,7 @@ hr {
 }
 
 /*------ UBLOCK ORIGIN UI LOGGER ------*/
-@-moz-document url-prefix(moz-extension://заменить_на_ID_расширения/logger-ui.html) {
+@-moz-document url-prefix(moz-extension://заменить_на_UUID_расширения/logger-ui.html) {
 
 body, .permatoolbar, .vscrollable, table, html {background: #1A1E23 !important;}
 
@@ -821,4 +821,3 @@ span.fa-icon.reload:hover {
 	}
 
 }
-
